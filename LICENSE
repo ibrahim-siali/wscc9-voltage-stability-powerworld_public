@@ -1,0 +1,49 @@
+Voltage Stability of the WSCC 9 Bus System
+Copyright (c) 2026 Ibrahim Brahim Si Ali. All rights reserved except as
+granted below.
+
+LICENCE
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International Licence
+(CC BY-NC-ND 4.0).
+
+To view a copy of this licence, visit:
+
+    https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042,
+USA. The full legal code is at:
+
+    https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+In short, you are free to share this work, meaning copy and redistribute it
+in any medium or format, provided that you:
+
+  Attribution      credit the author, link to the licence, and indicate if
+                   any changes were made;
+  NonCommercial    do not use the material for commercial purposes;
+  NoDerivatives    do not distribute modified material. If you remix,
+                   transform or build upon the work, you may not distribute
+                   the result.
+
+Quotation and citation for scholarship, review and criticism are unaffected
+by this licence and remain governed by fair dealing and fair use.
+
+WHAT THIS LICENCE COVERS
+
+The network as built here, the case and oneline files, the sweep design, the
+measured margins, the figures and the written analysis.
+
+WHAT IT DOES NOT COVER
+
+The WSCC 9 bus system itself, also known as the Anderson and Fouad three
+machine nine bus system, which has been published and reproduced throughout
+the power systems literature for decades and is not claimed here. Only the
+files built here and everything derived from them are covered above.
+
+PowerWorld and PowerWorld Simulator are trademarks of PowerWorld Corporation.
+The files here are in PowerWorld's formats and were written by PowerWorld
+Simulator from data supplied to it, which is the ordinary output of using the
+program. No PowerWorld software, and no data that ships with it, is
+distributed here.
